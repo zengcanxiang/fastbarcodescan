@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:parentTag="android.widget.RelativeLayout">
+
+    <cn.zengcanxiang.fastbarcodescan.core.helper.SimpleFinderView
+        android:id="@+id/finder_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <cn.zengcanxiang.fastbarcodescan.core.helper.SimpleRayView
+        android:id="@+id/ray_view"
+        android:layout_width="270dp"
+        android:layout_height="280dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/scan_ray" />
+
+</merge>

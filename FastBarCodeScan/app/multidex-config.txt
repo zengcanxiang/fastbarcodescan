@@ -1,0 +1,3 @@
+cn/zengcanxiang/fastbarcodescan/App.class
+cn/zengcanxiang/fastbarcodescan/MainActivity.class
+

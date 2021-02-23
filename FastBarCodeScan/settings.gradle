@@ -1,0 +1,6 @@
+include ':huawei'
+include ':google'
+include ':core'
+include ':alibaba'
+include ':app'
+rootProject.name = "FastBarCodeScan"
